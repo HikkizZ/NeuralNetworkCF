@@ -34,7 +34,7 @@ The process that the neural network follows to convert celsius to fahrenheit deg
 2. Asegúrate de tener instalado Python y TensorFlow.
 3. Ejecuta el script principal para entrenar la red neuronal. En este caso es un archivo de Jupyter Notebook (.ipynb) que puedes ejecutar con Jupyter Notebook o Google Colab.
 4. Una vez entrenada, puedes usar la red neuronal para convertir temperaturas de Celsius a Fahrenheit.
-
+---
 1. Clone the repository
 2. Make sure you have Python and TensorFlow installed.
 3. Run the main script to train the neural network. In this case it is a Jupyter Notebook file (.ipynb) that you can run with Jupyter Notebook or Google Colab.
